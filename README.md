@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -143,7 +144,7 @@ Publish the website in the LocalHost.
     </body>
 </html>
 
-
+```
 ## OUTPUT:
 ![Screenshot 2023-12-14 113736](https://github.com/Ragavikrishnan/cover/assets/144870428/c958c787-797f-4e41-8092-ad87f13b1e2a)
 
